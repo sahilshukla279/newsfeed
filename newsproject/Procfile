@@ -1,1 +1,1 @@
-web: gunicorn dep:newsproject
+web: gunicorn dep:app
