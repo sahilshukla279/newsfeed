@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-w9rg0i6$hg$j7eq*=6ch!*zv^v$wk(z&vpkc8uyyg-ojg!qvgk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['newsfeedday2.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
